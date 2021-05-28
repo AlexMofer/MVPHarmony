@@ -13,7 +13,7 @@ Harmony的MVP设计模式。
 ```
 dependencies {
     ...
-    implementation 'io.github.alexmofer.mvp:mvp-harmony:1.0.0'
+    implementation 'io.github.alexmofer.mvp:mvp-harmony:1.0.1'
     ...
 }
 ```
